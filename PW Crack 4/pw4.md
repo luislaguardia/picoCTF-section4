@@ -19,4 +19,5 @@ There are 100 potential passwords with only 1 being correct. You can find these 
 
 HINTS:
 1 - A for loop can help you do many things very quickly.
+
 2 - The str_xor function does not need to be reverse engineered for this challenge.
