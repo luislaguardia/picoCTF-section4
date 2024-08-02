@@ -3,8 +3,8 @@ replace the code in level4.py with the code i provided to get the flag
 
 Changes Made:
 1. Removed the Old Loop: The old loop that iterated from 1 to 100 was removed.
-2. Used 'pos_ps_list': Added the list of possible passwords directly within 'level_4_pw_check' function.
-3. Password Checking: The loop now iterates over each password in 'pos_pw_list', checking if its hash matches the
+2. Used `pos_ps_list`: Added the list of possible passwords directly within `level_4_pw_check` function.
+3. Password Checking: The loop now iterates over each password in `pos_pw_list`, checking if its hash matches the
    correct password hash.
 4. Error Handling: If no password is correct, it will print "That password is incorrect."
 
